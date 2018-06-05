@@ -19,6 +19,7 @@ s = (author "me" & version 0.0)[
     uni2 = u^‏‍⁭ # unicode character from character 
     obj = ()[int =   12] # another object (must be encoded properly)
     path = $PATH # environment variable
-]   ```
+]   
+```
 
 I am currently writing the parser in [python](https://python.org), but I'll also try a C and JS, when I'm done.
