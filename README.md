@@ -1,4 +1,5 @@
-# osml
+# osbd
+## Operating System Based Data
 ### a data interchange format, like JSON, but based on basic operating system functions
 
 meant to be a markup language, but has ability to directly enter the OS's functionality.  
